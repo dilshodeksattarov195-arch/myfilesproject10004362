@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpelete",
+        "uuid": 2468892,
+        "checksum": "i8zx0c"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
